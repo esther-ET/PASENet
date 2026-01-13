@@ -1,0 +1,4 @@
+val_clear
+train_clear
+test_snow
+都是之前的split

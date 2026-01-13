@@ -1,0 +1,46 @@
+# PyCharm
+.idea/
+
+# DROR download folder
+alpha_0.45/
+
+# experiments folder
+experiments/
+
+# snowflake download folder
+npy/
+
+# wet ground example folder
+tools/wet_ground/example_data/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# build
+LICENSE*
+pcdet.egg-info
+build/
+# other
+snowflakes/
+wandb/
+lib/OpenPCDet/data/dense/testing
+lib/OpenPCDet/data/dense/training
+pictures/
+pointcloud_viewer.py
+my_bin_visual.py
+snowflakes.zip
+README.md
+lib/__pycache__/
+lib/cadc_devkit/
+lib/LISA/
+lib/pa_aug/
+lib/deformable_conv.py
+lib/pointpillars_with_TANet/
+lib/OpenPCDet/docker/
+lib/OpenPCDet/docs/
+lib/OpenPCDet/pcdet.egg-info/
+lib/OpenPCDet/libprotobuf.so.30
+lib/OpenPCDet/requirements.txt 
+lib/OpenPCDet/LICENSE 
+lib/OpenPCDet/README.md
